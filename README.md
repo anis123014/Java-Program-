@@ -1,4 +1,4 @@
-# Java-Program-
+# Java-Programs
 Solution to various problems Using java programming language.
 --------------------------------------------------
 --------------------------------------------------
